@@ -10,8 +10,8 @@ title: ALOHA Lab
 email: haopengz@hawaii.edu
 description: > # this means to ignore newlines until "baseurl:"
   Website of the ALOHA Lab.
-baseurl: "https://housker.github.io/aloha"
-url: "https://nlp-hawaii.github.io/"
+baseurl: "https://nlp-hawaii.github.io/"
+url: ""
 
 include:
   - .htaccess
