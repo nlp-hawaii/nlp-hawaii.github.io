@@ -1,3 +1,11 @@
+- title: "A Structure-aware Generative Model for Biomedical Event Extraction"
+  # description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
+  authors: Haohan Yuan, Siu Cheung Hui, Haopeng Zhang
+  link:
+    url: https://arxiv.org/abs/2406.11289
+    display: arXiv
+  highlight: 0
+  
 - title: "A Systematic Survey of Text Summarization: From Statistical Methods to Large Language Models"
   # description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
   authors: Haopeng Zhang, Philip S. Yu, Jiawei Zhang
@@ -5,7 +13,6 @@
     url: https://arxiv.org/abs/2406.11289
     display: arXiv
   highlight: 0
-
 
 - title: "Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval"
   # description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
