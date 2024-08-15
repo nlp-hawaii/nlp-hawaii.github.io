@@ -8,16 +8,14 @@ permalink: /openings
 
 # Open positions
 
-🔥 We are looking for new group members with passion, talent, and grit!
-
-You will have the chance to work in the growing field of artificial intelligence and natural language processing: its use for the study of language, its interface with computer reasoning, and its application in analyzing human behaviors both within and beyond the field of computer science. 
+🔥 We are looking for new group members with passion, talent, and grit! You will have the chance to explore in the growing field of AI and NLP.
 
 ### Applications for PhD positions
 If you are interested in working with us as a PhD student, please send me an [email](mailto:haopengz@hawaii.edu). State briefly why you are interested and attach a CV, your transcripts and related publication/research experiences. **Important**: please insert _"Application PhD"_ in the subject line. 
 
-### For University of Hawaii Masters students:
-If you are a Master student at the University of Hawaii looking for a Master project, contact me per [email](mailto:haopengz@hawaii.edu) or stop by my office. Course credit is available in the form of ICS 499, ICS 699, or ICS 700.
+### For University of Hawaii Master's students:
+If you're a Master's student at UH seeking a thesis or capstone project, please reach out to me via [email](mailto:haopengz@hawaii.edu) or visit my office in POST 309C. Course credit is available in the form of ICS 699 or ICS 700.
 
-### For University of Hawaii Bachelor students:
-Interested undergraudate students with strong python programming/deep learning/NLP skills are also encouraged to contact me.
+### For University of Hawaii undergraduate students:
+Interested undergraudate students with strong python programming/deep learning/NLP skills are also encouraged to contact me for.
 
