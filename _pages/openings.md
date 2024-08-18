@@ -17,5 +17,5 @@ If you are interested in working with us as a PhD student, please send me an [em
 If you're a Master's student at UH seeking a thesis or capstone project, please reach out to me via [email](mailto:haopengz@hawaii.edu) or visit my office in POST 309C. Course credit is available in the form of ICS 699 or ICS 700.
 
 ### For University of Hawaii undergraduate students:
-Interested undergraudate students with strong python programming/deep learning/NLP skills are also encouraged to contact me for.
+Interested undergraudate students with strong python programming/deep learning/NLP skills are also encouraged to contact me via [email](mailto:haopengz@hawaii.edu).
 
