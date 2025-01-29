@@ -12,12 +12,12 @@
   education1: M.E. Nanyang Technological University
   education2: B.S. Hefei University of Technology
 
-  - name: Cade Kane
+- name: Cade Kane
   # photo: july.jpg
   info: Undergraudate student (Spring 2054)
   number_educ: 1
   # education1: M.E. Nanyang Technological University
-  education2: B.S. University of Hawaii at Manoa
+  education1: B.S. University of Hawaii at Manoa
 
 # - name: Meghna Chaudhary
 #   photo: meghna.jpg
