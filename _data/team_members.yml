@@ -1,0 +1,38 @@
+- name: <a href="https://hpzhang94.github.io/">Haopeng Zhang</a>, Ph.D.
+  photo: Haopeng.png
+  info: Assistant Professor
+  email: haopengz@hawaii.edu
+  number_educ: 2
+  education1: Ph.D., Computer Science, University of California, Davis
+  education2: Director, <a href="https://nlp-hawaii.github.io/">ALOHA Lab</a>
+  
+# - name: Gene Louis Kim, Ph.D.
+#   photo: Gene.jpg
+#   info: Assistant Professor
+#   email: genekim@usf.edu
+#   number_educ: 1
+#   education1: Ph.D., Computer Science, University of Rochester
+  
+# - name: John Licato, Ph.D.
+#   photo: licato.jpeg
+#   info: Assistant Professor
+#   email: licato@usf.edu
+#   number_educ: 2
+#   education1: Ph.D., Computer Science, Rensselaer Polytechnic Institute
+#   education2: Director, <a href="https://sites.google.com/view/amhr">Advancing Machine and Human Reasoning Lab</a>
+  
+# - name: Seungbae Kim, Ph.D.
+#   photo: seungbae.jpg
+#   info: Assistant Professor
+#   email: seungbae@usf.edu
+#   number_educ: 1
+#   education1: Ph.D., Computer Science, University of California, Los Angeles
+  
+  
+# - name: Ankur Mali, Ph.D.
+#   photo: Ankur_Mali_7.jpg
+#   info: Assistant Professor
+#   email: ankurarjunmali@usf.edu
+#   number_educ: 2
+#   education1: Ph.D., Informatics, Pennsylvania State University, University Park
+#   education2: Director, <a href="https://tkai-lab.github.io/">Trustworthy Knowledge-Driven Artificial Intelligence (TKAI) Lab</a>

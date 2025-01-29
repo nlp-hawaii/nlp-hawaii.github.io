@@ -1,0 +1,99 @@
+- title: "DomainSum: A Hierarchical Benchmark for Fine-Grained Domain Shift in Abstractive Text Summarization"
+  # description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
+  authors: Haohan Yuan，Haopeng Zhang
+  link:
+    url: https://arxiv.org/abs/2410.15687
+    display: Findings of the Association for Computational Linguistics NAACL 2025 (NAACL 2025)
+  highlight: 0
+
+- title: "A Structure-aware Generative Model for Biomedical Event Extraction"
+  # description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
+  authors: Haohan Yuan, Siu Cheung Hui, Haopeng Zhang
+  link:
+    url: https://arxiv.org/abs/2408.06583
+    display: 30th International Conference on Database Systems for Advanced Applications (DASFAA 2025)
+  highlight: 0
+  
+- title: "A Systematic Survey of Text Summarization: From Statistical Methods to Large Language Models"
+  # description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
+  authors: Haopeng Zhang, Philip S. Yu, Jiawei Zhang
+  link:
+    url: https://arxiv.org/abs/2406.11289
+    display: ACM Computing Surveys
+  highlight: 0
+
+- title: "Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval"
+  # description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
+  authors: Zizhong Li, Haopeng Zhang, Jiawei Zhang
+  link:
+    url: https://arxiv.org/abs/2406.12169
+    display: arXiv
+  highlight: 0
+
+- title: "Unveiling the Magic: Investigating Attention Distillation in Retrieval-augmented Generation"
+  # description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
+  authors: Zizhong Li, Haopeng Zhang, Jiawei Zhang
+  link:
+    url: https://arxiv.org/abs/2309.11063
+    display: NAACL 2024
+  highlight: 0
+
+- title: "XATU: A Fine-grained Instruction-based Benchmark for Explainable Text Updatess"
+  # description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
+  authors: Haopeng Zhang, Hayate Iso, Sairam Gurajada, Nikita Bhutani
+  link:
+    url: https://arxiv.org/abs/2406.11289
+    display: LREC-COLING 2024
+  highlight: 0
+
+
+
+# - title: "Surveying Stylometry Techniques and Applications"
+#   image: stylometry_survey.png
+#   description: Here, we perform an extensive performance analysis on a corpus of 1,000 authors to investigate authorship attribution, verification, and clustering using 14 algorithms from the literature. Finally, several remaining research challenges are discussed, along with descriptions of various open-source and commercial software that may be useful for stylometry subtasks.
+#   authors: Tempestt Neal, Kalaivani Sundararajan, Aneez Fatima, Yiming Yan, Yingfei Xiang, Damon Woodard
+#   link:
+#     url: https://dl.acm.org/doi/abs/10.1145/3132039
+#     display: ACM Computing Surveys (2017)
+#   highlight: 0
+#   news2: 
+
+# - title: "Exploiting Linguistic Style as a Cognitive Biometric for Continuous Verification"
+#   image: 
+#   description: This paper presents an assessment of continuous verification using linguistic style as a cognitive biometric. In stylometry, it is widely known that linguistic style is highly characteristic of authorship using representations that capture authorial style at character, lexical, syntactic, and semantic levels. In this work, we provide a contrast to previous efforts by implementing a one-class classification problem using Isolation Forests. Our approach demonstrates the usefulness of this classifier for accurately verifying the genuine user, and yields recognition accuracy exceeding 98% using very small training samples of 50 and 100-character blocks.
+#   authors: Tempestt Neal, Kalaivani Sundararajan, Damon Woodard
+#   link:
+#     url: https://ieeexplore.ieee.org/abstract/document/8411232
+#     display:  ICB 2018
+#   highlight: 0
+#   news2:
+
+# - title: "Style Signatures to Combat Biometric Menagerie in Stylometry"
+#   image: 
+#   description: In this paper, we investigate the challenges of using a person's writing style as a cognitive biometric modality by applying Doddington's idea of Biometric menagerie. To the best of our knowledge, biometric menagerie analysis has been on performed on a cognitive biometric modality for the first time. The presence of goats, wolves and lambs in this modality is demonstrated using two publicly available datasets - Blogs and IMDB1M. To combat this challenging problem, we further propose using person-specific features referred to as "Style signatures" which may be better at distinguishing different individuals. Experimental results show that using person-specific Style signatures improve verification by 3.6-5.5% on both datasets.
+#   authors: Kalaivani Sundararajan, Tempestt Neal, Damon Woodard
+#   link:
+#     url: https://ieeexplore.ieee.org/abstract/document/8411231
+#     display:  ICB 2018
+#   highlight: 0
+#   news2: 
+
+# - title: "A Transition-based Parser for Unscoped Episodic Logical Forms"
+#   image: ulf_transition_parser.png
+#   description: This paper presents the first learned approach for parsing sentences into ULFs, using a growing set of annotated examples. Our method learns a sequence-to-sequence model for predicting the transition action sequence within a modified cache transition system and provides a strong baseline for future improvement. We also evaluate the efficacy of type grammar-based constraints, a word-to-symbol lexicon, and transition system state features in this task.
+#   authors: Gene Louis Kim, Viet Duong, Xin Lu, Lenhart Schubert
+#   link:
+#     url: https://aclanthology.org/2021.iwcs-1.18/
+#     display: IWCS 2021, Article 18
+#   highlight: 0
+#   news2:
+
+# - title: "Montague Induction Grammar"
+#   image: montague_induction_grammar.png
+#   description: Here, we propose a computational modeling framework for inducing combinatory categorial grammars from arbitrary language data. This framework provides fine-grained control over the assumptions that the induced grammar should conform to. In a proof-of-concept experiment, we deploy our framework for use in distributional analysis of the relationship between s(emantic)-selection and c(ategory)-selection, using as input a lexicon-scale acceptability judgment dataset focused on English verbs’ syntactic distribution and enforcing standard assumptions from the semantics literature on the induced grammar.
+#   authors: Gene Louis Kim, Aaron Steven White
+#   link:
+#     url: https://doi.org/10.3765/salt.v30i0.4816
+#     display: SALT 30 (2021)
+#   highlight: 0
+#   news2:
