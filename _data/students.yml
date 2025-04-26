@@ -1,6 +1,6 @@
 - name: July Zhang
   photo: july.jpg
-  info: honored member
+  info: honored member 
   number_educ: 1
   education1: University of Cat, Cute Campus (UCCC)
 
@@ -19,12 +19,12 @@
   # education1: M.E. Nanyang Technological University
   education1: B.S. University of Hawaii at Manoa
 
-# - name: Mengqi Shi
-#   # photo: july.jpg
-#   info: Ph.D. student (Fall 2025 - )
-#   number_educ: 1
-#   # education1: M.E. Nanyang Technological University
-#   education1: B.S. University of Hawaii at Manoa
+- name: Mengqi Shi
+  photo: bio-photo.jpg
+  info: Ph.D. student (Fall 2025 - )
+  number_educ: 2
+  education1: M.S. Nanyang Technological University
+  education1: B.S. Southeast University
 
 - name: Christopher Slade 
   photo: bio-photo.jpg
@@ -35,7 +35,7 @@
 
 - name: Tanvir Islam
   photo: bio-photo.jpg
-  info: Ph.D. student (co-advised with Dr. Peter Washington)(Spring 2024 - )
+  info: Ph.D. student (co-advised with Dr. Peter Washington)(Spring 2025 - )
   # number_educ: 1
   # # education1: M.E. Nanyang Technological University
   # education1: M.S.B.S. Computer Science, Brigham Young University
