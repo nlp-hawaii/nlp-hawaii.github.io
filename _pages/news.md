@@ -8,6 +8,10 @@ permalink: /news
 
 # News
 
+- 04.2025: One research paper on <a href = "https://arxiv.org/abs/2406.12169" target="_blank"> [Multimodal Reasoning]</a> has been accepted to the Multimodal Algorithmic Reasoning workshop at CVPR 2025.
+- 04.2025: One research paper on <a href = "https://arxiv.org/abs/2406.12169" target="_blank"> [retrieval augmented generation]</a> is accepted to IJCNN 2025.
+- 02.2025: Excited to share that our research has been featured in  <a href = "https://www.hawaii.edu/news/2025/02/07/ai-breakthroughs-healthcare-education-more/" target="_blank"> [University of Hawaii News]</a>.
+- 02.2025: One research paper <a href = "https://arxiv.org/abs/2502.12421" target="_blank"> [Wi-Chat: Large Language Model Powered Wi-Fi Sensing]</a> is now available on arXiv.
 - 01.2025: One research paper <a href = "https://www.arxiv.org/abs/2408.06583" target="_blank"> [A Structure-aware Generative Model for Biomedical Event Extraction]</a> is accepted to DASFAA 2025.
 - 01.2025: Excited to receive $7,500 computing credits from OpenAI’s Researcher Access Program.
 - 01.2025: One research paper on <a href = "https://arxiv.org/pdf/2410.15687" target="_blank"> [summmarization domain adaptation]</a> is accepted to findings of NAACL 2025.
