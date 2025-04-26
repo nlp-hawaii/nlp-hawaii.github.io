@@ -8,7 +8,7 @@ permalink: /openings
 
 # Open positions
 
-🔥 We are looking for new group members with passion, talent, and grit! You will have the chance to explore in the growing field of AI and NLP.
+🔥 We are looking for new group members with passion, talent, and grit! You will have the chance to explore in the growing field of AI.
 
 ### Applications for PhD positions
 If you are interested in working with us as a PhD student, please send me an [email](mailto:haopengz@hawaii.edu). State briefly why you are interested and attach a CV, your transcripts and related publication/research experiences. **Important**: please insert _"Application PhD"_ in the subject line. 
