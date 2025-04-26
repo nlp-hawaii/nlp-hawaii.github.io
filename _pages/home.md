@@ -57,10 +57,11 @@ permalink: /
 <div id="flex__container">
 <div class="p-2">
 ## Research Topics:
-- NLP: Summarization, Generation, Misinformation, Information Retrieval
-- Generative AI: Large Language Models, Large Multi-modal Foundation Models
-- NLP for social good: Indigenous culture, Healthcare, Climate change, 
-- Graph Mining: Graph4NLP
+
+- **NLP**: Summarization, generation, low-resource languages
+- **Generative AI**: LLMs, vision-language models, multimodal foundation models
+- **NLP4Science**: Cognitive science, healthcare
+- **Graph Mining**: Graph4NLP
 
 </div>
 <div class="p-2">

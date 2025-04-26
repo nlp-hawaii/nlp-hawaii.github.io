@@ -1,3 +1,13 @@
+
+
+- title: "Boosting Multimodal Reasoning with Implicit Chain-of-Vision Finetuning"
+  # description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
+  authors: Yiqiao Huang, Zhaorun Chen, He Qi, Haopeng Zhang, Hanchao Yu, Zhuokai Zhao
+  link:
+    url: https://arxiv.org/abs/2410.15687
+    display: Multimodal Algorithmic Reasoning workshop at CVPR 2025 (MAR 2025)
+  highlight: 0
+
 - title: "DomainSum: A Hierarchical Benchmark for Fine-Grained Domain Shift in Abstractive Text Summarization"
   # description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
   authors: Haohan Yuan，Haopeng Zhang
@@ -27,7 +37,7 @@
   authors: Zizhong Li, Haopeng Zhang, Jiawei Zhang
   link:
     url: https://arxiv.org/abs/2406.12169
-    display: arXiv
+    display: International Joint Conference on Neural Networks 2025 <b>(IJCNN 2025)
   highlight: 0
 
 - title: "Unveiling the Magic: Investigating Attention Distillation in Retrieval-augmented Generation"

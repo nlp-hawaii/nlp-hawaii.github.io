@@ -14,10 +14,33 @@
 
 - name: Cade Kane
   # photo: july.jpg
-  info: Undergraudate student (Spring 2024- )
+  info: Ph.D. student (Fall 2025 - )
   number_educ: 1
   # education1: M.E. Nanyang Technological University
   education1: B.S. University of Hawaii at Manoa
+
+# - name: Mengqi Shi
+#   # photo: july.jpg
+#   info: Ph.D. student (Fall 2025 - )
+#   number_educ: 1
+#   # education1: M.E. Nanyang Technological University
+#   education1: B.S. University of Hawaii at Manoa
+
+- name: Christopher Slade 
+  # photo: july.jpg
+  info: Ph.D. student (co-advised with Dr. Peter Washington)(Fall 2023 - )
+  # number_educ: 1
+  # # education1: M.E. Nanyang Technological University
+  # education1: M.S.B.S. Computer Science, Brigham Young University
+
+- name: Tanvir Islam
+  # photo: july.jpg
+  info: Ph.D. student (co-advised with Dr. Peter Washington)(Spring 2024 - )
+  # number_educ: 1
+  # # education1: M.E. Nanyang Technological University
+  # education1: M.S.B.S. Computer Science, Brigham Young University
+
+
 
 # - name: Meghna Chaudhary
 #   photo: meghna.jpg
