@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-🔥 **We are looking for new students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+<!-- 🔥 **We are looking for new students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!** -->
 
 # Faculty
 
