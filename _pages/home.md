@@ -1,5 +1,5 @@
 ---
-title: "ALOHA Lab - Home"
+title: "ALOHA Lab"
 layout: homelay
 excerpt: "ALOHA Lab at the University of Hawaii, Manoa"
 sitemap: false
@@ -12,7 +12,6 @@ The **ALOHA (Advanced Language Processing and Human Analytics) Lab** conducts tr
 <!-- <figure>
 <img src="/images/logo.jpg" width="60%">
 </figure> -->
-
 
 ## Research Topics:
 
