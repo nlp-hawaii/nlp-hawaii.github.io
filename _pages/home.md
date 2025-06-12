@@ -3,7 +3,7 @@ title: "ALOHA Lab - Home"
 layout: homelay
 excerpt: "ALOHA Lab at the University of Hawaii, Manoa"
 sitemap: false
-permalink: /home/
+permalink: 
 ---
 
 The **ALOHA (Advanced Language Processing and Human Analytics) Lab** conducts transformative research in various areas of NLP and AI. We leverage expertise in natural language understanding, generative AI, summarization, and large language model (LLM) applications. We are housed in the [Department of Information and Computer Sciences](https://www.ics.hawaii.edu/) at the [University of Hawaii Manoa](https://manoa.hawaii.edu/).
