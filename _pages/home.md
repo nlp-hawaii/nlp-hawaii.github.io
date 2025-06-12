@@ -10,7 +10,7 @@ The **ALOHA (Advanced Language Processing and Human Analytics) Lab** conducts tr
 
 
 <figure style="text-align: center;">
-<img src="/images/logo.jpg" width="60%">
+<img src="/images/logo.png" width="60%">
 </figure>
 
 ## Research Topics:
