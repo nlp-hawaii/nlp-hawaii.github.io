@@ -2,7 +2,7 @@
   photo: july.jpg
   info: honored member 
   number_educ: 1
-  education1: University of Cat, Cute Campus (UCCC)
+  education1: University of Cute Cat (UCC)
 
 
 - name: Haohan Yuan
@@ -26,6 +26,13 @@
   education1: M.S. Nanyang Technological University
   education2: B.S. Southeast University
 
+
+- name: Shouju Wang
+  photo: bio-photo.jpg
+  info: Ph.D. student (Fall 2025 - )
+  number_educ: 1
+  education1: B.S. Wuhan University
+
 - name: Yuechen Jiang
   photo: bio-photo.jpg
   info: Ph.D. student (Fall 2025 - )
@@ -46,13 +53,3 @@
 #   # number_educ: 1
 #   # # education1: M.E. Nanyang Technological University
 #   # education1: M.S.B.S. Computer Science, Brigham Young University
-
-
-
-# - name: Meghna Chaudhary
-#   photo: meghna.jpg
-#   info: PhD Student (Advised by Dr. Neal)
-#   email: meghna1@usf.edu
-#   number_educ: 2
-#   education1: M.E., Panjab University
-#   education2: B.E., Panjab University
