@@ -33,9 +33,9 @@
   number_educ: 1
   education1: B.S. Wuhan University
 
-- name: Christopher Slade 
-  photo: bio-photo.jpg
-  info: Ph.D. student (co-advised with Dr. Peter Washington) (Fall 2023 - )
+# - name: Christopher Slade 
+#   photo: bio-photo.jpg
+#   info: Ph.D. student (co-advised with Dr. Peter Washington) (Fall 2023 - )
   # number_educ: 1
   # # education1: M.E. Nanyang Technological University
   # education1: M.S.B.S. Computer Science, Brigham Young University
