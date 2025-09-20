@@ -6,14 +6,14 @@
 
 
 - name: Haohan Yuan
-  photo: bio-photo.jpg
+  photo: haohan.jpeg
   info: Ph.D. student (Fall 2024 - )
   number_educ: 2
   education1: M.E. Nanyang Technological University
   education2: B.S. Hefei University of Technology
 
 - name: Cade Kane
-  photo: bio-photo.jpg
+  photo: cade.jpg
   info: Ph.D. student (Fall 2025 - )
   number_educ: 1
   # education1: M.E. Nanyang Technological University
@@ -28,21 +28,14 @@
 
 
 - name: Shouju Wang
-  photo: bio-photo.jpg
+  photo: shouju.jpeg
   info: Ph.D. student (Fall 2025 - )
   number_educ: 1
   education1: B.S. Wuhan University
 
-- name: Yuechen Jiang
-  photo: bio-photo.jpg
-  info: Ph.D. student (Fall 2025 - )
-  number_educ: 2
-  education1: M.S. Stevens Institute of Technology
-  education2: B.S. Shenyang University of Technology
-
 - name: Christopher Slade 
   photo: bio-photo.jpg
-  info: Ph.D. student (co-advised with Dr. Peter Washington)(Fall 2023 - )
+  info: Ph.D. student (co-advised with Dr. Peter Washington) (Fall 2023 - )
   # number_educ: 1
   # # education1: M.E. Nanyang Technological University
   # education1: M.S.B.S. Computer Science, Brigham Young University
